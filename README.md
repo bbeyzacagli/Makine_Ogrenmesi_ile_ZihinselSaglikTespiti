@@ -16,6 +16,11 @@ Bu proje kapsamında:
 - **K-En Yakın Komşu (KNN)**
 - **Karar Ağacı**
 - **Destek Vektör Makineleri (SVM)**
+- **Random Forest**
+- **Gradient Boosting**
+- **XGBoost**
+- **LightGBM**
+- **Ensemble Metodu**
   
 # Ekip Üyeleri
 * Eren DİNÇ
